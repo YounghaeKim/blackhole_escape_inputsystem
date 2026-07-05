@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">🎮 키 입력 관리 시스템 (Code Sample)</h1>
 
 <p align="center">
